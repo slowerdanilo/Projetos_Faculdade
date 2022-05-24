@@ -1,2 +1,2 @@
 # Projetos_Faculdade
-Projetos utlizando C# e Java
+Projetos utlizando C#
